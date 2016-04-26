@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1372502371bty1nking9" name="Компьютеры">
+   <node id="1372921359br7f0f5w5r" name="Железо">
+    <recordtable>
+     <record dir="1372924870kfmn6djb5l" crypt="0" url="" tags="ATX, корпус, размеры корпусов, системный блок" author="" id="1372924870fja1yb6mmw" ctime="20130704110110" name="размеры материнских плат и корпусов" file="text.html"/>
+     <record dir="1372945815d1rt5yzlpf" crypt="0" url="" tags="POST-коды порта 80h bios" author="" id="137294581524gn1ywu1h" ctime="20130704165015" name="POST-коды порта 80h" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1372921371ulc30sc5t2" name="Программы">
+    <recordtable>
+     <record dir="1372921672umcmbseu18" crypt="0" url="" tags="runas, запуск от имени" author="" id="1372921672b89bmbjnn8" ctime="20130704100752" name="runas" file="text.html"/>
+     <record dir="1372921692tnp5646awl" crypt="0" url="" tags="Outlook, почта" author="" id="1372921692i67co6pjwp" ctime="20130704100812" name="Outlook" file="text.html"/>
+     <record dir="1372921709k6zulojbsa" crypt="0" url="" tags="cmd, bat" author="" id="1372921709q5vrejaq8v" ctime="20130704100829" name="CMD файл" file="text.html"/>
+     <record dir="137292279514fztwvng9" crypt="0" url="" tags="DNS, IP, cmd" author="" id="1372922795gvwb65gckc" ctime="20130704102635" name="DNS имя по IP адресу" file="text.html"/>
+     <record dir="1372924780o6s2wd27rv" crypt="0" url="" tags="Total Commander, тотал, Групповое переименование файлов" author="" id="1372924780z90mph8vks" ctime="20130704105940" name="Total Commander Групповое переименование файлов" file="text.html"/>
+     <record dir="1372944304j9jj3fi6ag" crypt="0" url="" tags="Служба печати spoolsv, printspooler" author="" id="1372944304h20xql14fs" ctime="20130704162504" name="Служба печати spoolsv грузит процессор на 100%" file="text.html"/>
+     <record dir="1372944604bj90ino0hk" crypt="0" url="" tags="языковая панель" author="" id="1372944604hzjnpvuxvp" ctime="20130704163004" name="исчезла языковая панель" file="text.html"/>
+     <record dir="13729448184w4v3plnly" crypt="0" url="" tags="Порты, соединения" author="" id="1372944818ef5zdsnoxu" ctime="20130704163338" name="Порты и соединения" file="text.html"/>
+     <record dir="1372945163xkp2ngfg7v" crypt="0" url="" tags="Раздача интернета MACBOOK wi-fi точка доступа" author="" id="1372945163jgdz084zz1" ctime="20130704163923" name="Wi-Fi точка доступа из вашего MacBook" file="text.html"/>
+     <record dir="1372945307m92c5tdyg0" crypt="0" url="" tags="сброс политик" author="" id="1372945307u6homecfjf" ctime="20130704164147" name="сброс политик" file="text.html"/>
+     <record dir="13729454909459ul7b1j" crypt="0" url="" tags="Удаление командной строки" author="" id="1372945490sq9ncgzlaa" ctime="20130704164450" name="Удаление программ из командной строки" file="text.html"/>
+     <record dir="137294604997mk25ispy" crypt="0" url="" tags="PIO режим HDD" author="" id="1372946049z2eb8bk5n8" ctime="20130704165409" name="PIO режим HDD" file="text.html"/>
+     <record dir="13729462349dx2gzn9bl" crypt="0" url="" tags="Symantec" author="" id="13729462341mnl77hbap" ctime="20130704165714" name="Symantec" file="text.html"/>
+     <record dir="137294628783hxstddv5" crypt="0" url="" tags="проверка целостности системных файлов" author="" id="1372946287lqvtojszvy" ctime="20130704165807" name="проверка целостности системных файлов" file="text.html"/>
+     <record dir="1372946580klrqsd6t92" crypt="0" url="" tags="kerio, керио" author="" id="1372946580c41stwtv3n" ctime="20130704170300" name="kerio пример настройки с АЛЕФа" file="text.html"/>
+     <record dir="1372946658ci2190nbpe" crypt="0" url="" tags="автоотключение сессиий, telnet, cmd" author="" id="1372946658f5vwuhsq9h" ctime="20130704170418" name="автоотключение сессиий" file="text.html"/>
+     <record dir="1372946949cig02ykwu5" crypt="0" url="" tags="Компоненты панели управления cpl" author="" id="13729469492yltp9ecq3" ctime="20130704170909" name="Компоненты панели управления (тип *.cpl)" file="text.html"/>
+     <record dir="137294698994oz85wt7n" crypt="0" url="" tags="синхронизация времени с сервером net time, cmd" author="" id="137294698925d0lsw6h7" ctime="20130704170949" name="синхронизация времени с сервером" file="text.html"/>
+     <record dir="1372947045n376cg9psr" crypt="0" url="" tags="не работают USB порты" author="" id="1372947045r258i6cvsv" ctime="20130704171045" name="При включении компьютера не работают USB порты" file="text.html"/>
+     <record dir="1372947311978286f5kg" crypt="0" url="" tags="telnet radmin cmd включение учетной записи" author="" id="13729473119x6h3z3i6u" ctime="20130704171511" name="telnet" file="text.html"/>
+     <record dir="1372947350vqfmrbzwfh" crypt="0" url="" tags="Skype" author="" id="13729473502mefnfbhh5" ctime="20130704171550" name="Skype business не ставится" file="text.html"/>
+     <record dir="1372947507phvxhsu8gs" crypt="0" url="" tags="print spooler очередь печати, cmd, bat" author="" id="1372947507h5xpvayums" ctime="20130704171827" name="Отчистка очереди печати print spooler" file="text.html"/>
+     <record dir="1372947568xmm3631juz" crypt="0" url="" tags="route укрзализниця УЗ" author="" id="1372947568b8wg00ygwy" ctime="20130704171928" name="route укрзализниця" file="text.html"/>
+     <record dir="1372948840i1uk6d2662" crypt="0" url="" tags="печать через gsprinter виртуальный принтер 1120" author="" id="13729488403remw3465e" ctime="20130704174040" name="печать через gsprinter" file="text.html"/>
+     <record dir="1373025031fw0fk5g6hj" crypt="0" url="" tags="AC3 MatrixMixer, звук, аудио, 5.1" author="" id="1373025031eduz9cyxo2" ctime="20130705145031" name="AC3 MatrixMixer " file="text.html"/>
+     <record dir="1373526588oit71eg2z4" crypt="0" url="" tags="Синий экран BSOD stop" author="" id="137352658848fqs7r0vj" ctime="20130711100948" name="Синий экран BSOD" file="text.html"/>
+     <record dir="1373547715uxlzs1g70a" crypt="0" url="" tags="Временный профиль реестр" author="" id="1373547715zcouocufpq" ctime="20130711160155" name="Временный профиль загружается после входа в систему" file="text.html"/>
+     <record dir="13748214161h7ctpyfn1" crypt="0" url="" tags="Авторизация windows 7 2003" author="" id="1374821416syr0k610tq" ctime="20130726095016" name="Авторизация с windows 7 на windows 2003 NTLMv2" file="text.html"/>
+     <record dir="1374829885dzcnvidt3e" crypt="0" url="" tags="uTorrent реклама" author="" id="1374829885poifs5dzye" ctime="20130726121125" name="uTorrent реклама" file="text.html"/>
+     <record dir="13763356139yy1900gce" crypt="0" url="" tags="административные ресурсы, UAC, c$" author="" id="1376335613aju6kefpwo" ctime="20130812222653" name="административные ресурсы при включенном UAC windows7" file="text.html"/>
+     <record dir="1378814245gkd5s1cvqi" crypt="0" url="" tags="Windows 2008 Server лицензирование сервера терминалов" author="" id="1378814245ikupsudoht" ctime="20130910145725" name="Windows 2008 Server лицензирование сервера терминалов" file="text.html"/>
+     <record dir="1379404730000zz0n4zb" crypt="0" url="" tags="удаление обновлений windows" author="" id="13794047308itbpszkw9" ctime="20130917105850" name="удаление обновлений windows" file="text.html"/>
+     <record dir="1379500742dzlxhmburz" crypt="0" url="" tags="реестр изменить путь к дистрибутиву Windows" author="" id="1379500742xvozm9a6ii" ctime="20130918133902" name="изменить путь к дистрибутиву Windows" file="text.html"/>
+     <record dir="1381827411dr7ibur8oy" crypt="0" url="" tags="Оключение флешек USB реестр" author="" id="1381827411a2huhsjsyb" ctime="20131015115651" name="Оключение флешек USB" file="text.html"/>
+     <record dir="1382857940amf8brq3xj" crypt="0" url="" tags="KERIO керио trifle маршрутизация" author="" id="1382857940ae295u2x95" ctime="20131027091220" name="KERIO рабочий пример с мапингом портов + trifle маршрутизация" file="text.html"/>
+     <record dir="1391797603vo91nxrhrv" crypt="0" url="" tags="port forward порт" author="" id="1391797603sisxbr8qwa" ctime="20140207202643" name="port forward переназначение портов windows" file="text.html"/>
+     <record dir="1397077534xvuj13brr5" crypt="0" url="" tags="Сброс настроек протокола TCP/IP стека в Windows 7/Windows 2008" author="" id="1397077534nika0akxkl" ctime="20140410000534" name="Сброс настроек протокола TCP/IP в Windows 7/Windows 2008" file="text.html"/>
+     <record dir="140058684034vcp8x1xz" crypt="0" url="" tags="Подключить папку как диск папка" author="" id="1400586840sac2l4m67b" ctime="20140520145400" name="Подключить папку как диск" file="text.html"/>
+     <record dir="1402326555txlzcre8hd" crypt="0" url="" tags="windows server 2012 R2 serial number" author="" id="1402326555vbxf77dkjs" ctime="20140609180915" name="windows server 2012 R2 serial number" file="text.html"/>
+     <record dir="1425115230go1kb9hm5g" crypt="0" url="" tags="Блокировать рекламу skype" author="" id="1425115230k1dkbr3swc" ctime="20150228112030" name="Блокировать рекламу skype" file="text.html"/>
+     <record dir="1457254889vvt1jnb4v8" crypt="0" url="" tags="OSI" author="" id="1457254889sp55blmnhc" ctime="20160306110129" name="OSI" file="text.html"/>
+     <record dir="1457256350xrce6ojqmy" crypt="0" url="" tags="Политика ограниченного запуска программ Настройка SRP (Software Restriction Policies)" author="" id="1457256350aih1f3c3gj" ctime="20160306112550" name="Политика ограниченного запуска программ Настройка SRP (Software Restriction Policies)" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1399563239f5ucvgcprk" name="LINUX">
+    <node id="13995632538w8bnehl80" name="LUBUNTU">
+     <recordtable>
+      <record dir="1399563660ad2wks18et" crypt="0" url="" tags="XRDP" author="" id="1399563660sck4pjjsgm" ctime="20140508184100" name="XRDP" file="text.html"/>
+     </recordtable>
+    </node>
+    <node id="13997227062k9izdllqh" name="RT-N65U">
+     <recordtable>
+      <record dir="139972325861bx5z35v8" crypt="0" url="" tags="OPTWARE Установка удаление" author="" id="1399723258upy476gdt6" ctime="20140510150058" name="OPTWARE Установка удаление" file="text.html"/>
+      <record dir="139972345425cjye9gsh" crypt="0" url="" tags="lighttpd php mysql" author="" id="1399723454i5q5rniia1" ctime="20140510150414" name="lighttpd php mysql" file="text.html"/>
+      <record dir="1400096116wj6ooabfhv" crypt="0" url="" tags="sane сканер mustek" author="" id="1400096116l2khq58lt0" ctime="20140514223516" name="sane сканер mustek" file="text.html"/>
+      <record dir="14567745239ara3g9df1" crypt="0" url="" tags="работа с дисками и разделами" author="" id="1456774523z9l2lkbezl" ctime="20160229213523" name="работа с дисками и разделами" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node id="1402374955wdufkl8eqk" name="JAVA">
+    <recordtable>
+     <record dir="14023750286xx72vpd9o" crypt="0" url="" tags="println" author="" id="1402375028nahwgcji9m" ctime="20140610073708" name="println" file="text.html"/>
+     <record dir="1402375080dcxq3i4ipf" crypt="0" url="" tags="JOptionPane.showMessageDialog Всплывающее окно" author="" id="14023750807yaqsuj9g1" ctime="20140610073800" name="JOptionPane.showMessageDialog Всплывающее окно" file="text.html"/>
+     <record dir="14024543015g41vxehtb" crypt="0" url="" tags="FILE создание файла" author="" id="140245430119qna50x8g" ctime="20140611053821" name="FILE создание файла" file="text.html"/>
+     <record dir="14024552375x697ebzyv" crypt="0" url="" tags="GUI открыть файл" author="" id="1402455237zzy77wldm4" ctime="20140611055357" name="GUI открыть файл" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1372502212515tydn2pv" name="Электроника">
+   <node id="13729249864ivuuob8vj" name="мои самоделки">
+    <recordtable>
+     <record dir="1372926129o7vxibx4yt" crypt="0" url="" tags="включение пк, gsm" author="" id="1372926129rv66nuhx0k" ctime="20130704112209" name="включение пк gsm" file="text.html"/>
+     <record dir="1372947838jqm3i96je6" crypt="0" url="" tags="индикатор разряда аккумулятора" author="" id="13729478380kpmamvyxa" ctime="20130704172358" name="индикатор разряда аккумулятора" file="text.html"/>
+     <record dir="1372948532r5pixnidpx" crypt="0" url="" tags="зарядка походная" author="" id="1372948532g5xu67yr2z" ctime="20130704173532" name="зарядка походная" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1372925923t1bid4k2od" name="Схемы, статьи">
+    <recordtable>
+     <record dir="137292593493vvasry8x" crypt="0" url="" tags="gsm, включение ПК" author="" id="1372925934x3xi099vuk" ctime="20130704111854" name="GSM включение пк через телефон" file="text.html"/>
+     <record dir="1372925948dme8al0qrr" crypt="0" url="" tags="Бесплатная электроэнергия, счетчик" author="" id="1372925948wp7oah6052" ctime="20130704111908" name="Электросчетчик Бесплатная электроэнергия" file="text.html"/>
+     <record dir="13729263317dfu0eeihl" crypt="0" url="" tags="драйвер, светодиод, LED, 5 звезд" author="" id="1372926331jv1ez9f7ke" ctime="20130704112531" name="Китайский драйвер светодиода 5 звезд" file="text.html"/>
+     <record dir="1372926744xc4y1gbzv3" crypt="0" url="" tags="Индикатор разряда батареи" author="" id="1372926744etdh3w4vuy" ctime="20130704113224" name="Индикатор разряда батареи" file="text.html"/>
+     <record dir="137293531657jdirtu48" crypt="0" url="" tags="Защита от разряда аккумулятора" author="" id="1372935316wbdp856kkz" ctime="20130704135516" name="Защита от разряда аккумулятора" file="text.html"/>
+     <record dir="1372938789p2g6b5cjoa" crypt="0" url="" tags="Глушилка сотовых телефонов" author="" id="1372938789dl8l9ovwtb" ctime="20130704145309" name="Глушилка сотовых телефонов ну и телевизоров заодно" file="text.html"/>
+     <record dir="1372939005vwstcpa2uv" crypt="0" url="" tags="Индикатор заряда аккумулятора для машины " author="" id="1372939005e9nn2st25z" ctime="20130704145645" name="Индикатор заряда аккумулятора для машины 10.5-15.0V" file="text.html"/>
+     <record dir="1372948252e1lgj3qoo3" crypt="0" url="" tags="Управление скоростью куллера cooler" author="" id="13729482527rafap8lhn" ctime="20130704173052" name="Управление скоростью куллера" file="text.html"/>
+     <record dir="1457122813wli9mffg5i" crypt="0" url="" tags="Типоразмеры гальванических элементов батарейки" author="" id="1457122813hbuuxtf3fq" ctime="20160304222013" name="Типоразмеры гальванических элементов" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1372948995j56s0ln5mh" name="Велосипед">
+   <recordtable>
+    <record dir="1372949065jyimcg51z7" crypt="0" url="" tags="Готовимся к велосезону" author="" id="1372949065ifby8q2kda" ctime="20130704174425" name="Готовимся к велосезону" file="text.html"/>
+    <record dir="1372949103vued50rduz" crypt="0" url="" tags="Зимнее хранение велосипедов" author="" id="1372949103yl8nrb63ct" ctime="20130704174503" name="Зимнее хранение велосипедов" file="text.html"/>
+    <record dir="13729492773h6h3fodwj" crypt="0" url="" tags="Регулировка велосипеда" author="" id="1372949277acwicgqvgb" ctime="20130704174757" name="Регулировка велосипеда" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="13730198589vvsw28gqo" name="INTERNET">
+   <recordtable>
+    <record dir="13730198979abhjtqfg1" crypt="0" url="" tags="телефон" author="" id="13730198977zddza5tcg" ctime="20130705132457" name="секреты телефонов" file="text.html"/>
+    <record dir="1373032381lz39ckcbsw" crypt="0" url="" tags="Телефонные коды сотовых операторов Украины" author="" id="1373032381rh5ary4nxe" ctime="20130705165301" name="Телефонные коды сотовых операторов Украины" file="text.html"/>
+    <record dir="144152486713yojyz1ju" crypt="0" url="" tags="trifle трайфл роутер router" author="" id="1441524867vdjl37x4ky" ctime="20150906103427" name="trifle" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1458503197jafsqrwljs" name="ДАННЫЕ">
+   <recordtable>
+    <record dir="1458503233aqmnw8qhxc" crypt="0" url="" tags="IP PFSOFT" author="" id="14585032338c1vvyzkv7" ctime="20160320214713" name="IP PFSOFT" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
